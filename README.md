@@ -25,24 +25,27 @@ This is a Generative AI project that generates personalized cold emails based on
 ## 📦 Setup Instructions
 
 1. **Clone the repo**
-   
+   ```bash
    git clone https://github.com/SairajPatil04/cold-email-generator.git
    cd cold-email-generator
 
 2. Create and activate environment
-
+   ```bash
    conda create -n genai-env python=3.10
    conda activate genai-env
 
 3. Install dependencies
+   ```bash
    pip install -r requirements.txt
 
 4. Run the streamlit app:
+   ```bash
    streamlit run app/main.py
 
 🔐 API Key
 You'll need a Groq API key from https://console.groq.com.
 Create a .env file and add:
+
 GROQ_API_KEY=your-api-key-here
 
 📄 Credits
