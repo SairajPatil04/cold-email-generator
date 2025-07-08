@@ -12,6 +12,9 @@ This is a Generative AI project that generates personalized cold emails based on
 
 ## 📸 Demo
 
+![App UI](screenshots/app_ui_1.png)
+![App UI](screenshots/app_ui_2.png)
+![App UI](screenshots/app_ui_3.png)
 
 
 ## 🛠️ Tech Stack
@@ -48,9 +51,9 @@ Create a .env file and add:
 
 GROQ_API_KEY=your-api-key-here
 
-📄 Credits
-Based on the Codebasics Gen AI Project Series
+## 📄 Credits
+Based on the Codebasics Gen AI Project Series.
 
-📬 Contact
-Created with ❤️ by Sairaj Patil
+## 📬 Contact
+Created with ❤️ by Sairaj Patil.
 📧 sai18122004@gmail.com
