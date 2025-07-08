@@ -52,8 +52,8 @@ Create a .env file and add:
 GROQ_API_KEY=your-api-key-here
 
 ## 📄 Credits
-Based on the Codebasics Gen AI Project Series.
+Based on the [Codebasics Gen AI Project Series](https://github.com/codebasics/project-genai-cold-email-generator)
 
 ## 📬 Contact
-Created with ❤️ by Sairaj Patil.
+Created with ❤️ by [Sairaj Patil](www.linkedin.com/in/sairajpatil1812)
 📧 sai18122004@gmail.com
