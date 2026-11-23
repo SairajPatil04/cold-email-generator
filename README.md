@@ -34,8 +34,8 @@ This is a Generative AI project that generates personalized cold emails based on
 
 2. Create and activate environment
    ```bash
-   conda create -n genai-env python=3.10
-   conda activate genai-env
+   py -3.11 -m venv .venv311
+   .venv311\Scripts\activate
 
 3. Install dependencies
    ```bash
